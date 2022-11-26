@@ -44,7 +44,7 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <i className="contact__option-icon bx bxl-instagram"></i>
+            <i className="contact__option-icon bx bxl-Instagram"></i>
             <h4>Instagram</h4>
             <h5>socials</h5>
             <a
