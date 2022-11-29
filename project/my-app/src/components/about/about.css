@@ -14,11 +14,14 @@
 }
 
 .about__me-image {
+    height: 30rem;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
 }
+
+
 
 .about__me-image:hover {
     transform: rotate(0);
