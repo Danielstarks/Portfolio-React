@@ -47,16 +47,20 @@ header span{
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 29rem;
+    width: 19.1rem;
+    height: 28rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 2rem 1.5rem 1.5rem 1.5rem;
+    padding: 2rem 1.5rem 1.5rem .1rem;
 }
-
+.me img{
+ 
+    width: 19rem;
+    max-height: 31rem;
+}
 /* ============ HEADER SOCIALS ================== */
 
 .scroll__down {
