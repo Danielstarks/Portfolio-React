@@ -36,10 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-            dolorem aliquid ducimus repellat debitis modi similique, velit ipsa
-            tempore ab omnis quibusdam neque iure itaque repudiandae cum,
-            laborum eum hic.
+          Engenheiro de Software apaixonado por desenvolvimento web, Clean Code, UX | UI Design e Interatividade. 
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
