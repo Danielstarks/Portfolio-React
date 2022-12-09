@@ -5,50 +5,50 @@ import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/portfolio6.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
+    title: "App FoodFun",
     github: "https://github.com/Danielstarks/web-foodfun",
     demo: "https://app-fast-food.vercel.app/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
+    title: "Web site Game",
     github: "https://github.com/Danielstarks/web-fortnite",
     demo: "hhttps://web-fortnite.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
+    title: "Web site Dance",
     github: "https://github.com/Danielstarks/web-dance",
     demo: "https://web-dance.vercel.app/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
+    title: "Portfóloi Web (antigo)",
     github: "https://github.com/Danielstarks/Portfolio-web",
     demo: "https://portfolio-danielgomes.vercel.app/",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
+    title: "Life Viagens",
     github: "https://github.com/Danielstarks/web-viagens",
     demo: "https://web-vigens.vercel.app/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Crytpo Currency Dashbord & Financial Visualization",
-    github: "https://github.com/Danielstarks/web-viagens",
-    demo: "https://web-vigens.vercel.app/",
+    title: "The Venon Blog",
+    github: "https://github.com/Danielstarks/web-blog",
+    demo: "https://web-blog-nine-lilac.vercel.app/",
   },
 ];
 

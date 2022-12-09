@@ -15,27 +15,19 @@ const Services = () => {
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Criando design básico de UI/UX usando figma</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Protótipos figma.</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Estudos de components</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Estudos de dashboard figma</p>
             </li>
           </ul>
         </article>
@@ -44,32 +36,28 @@ const Services = () => {
 
         <article className="services">
           <div className="service__head">
-            <h3>Wew Developer</h3>
+            <h3>Web Developer</h3>
           </div>
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Criação de Front End usando HTML/CSS, SASS, CSS Framework</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Javascript</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>React JS</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Next JS</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Node JS</p>
             </li>
           </ul>
         </article>
@@ -83,27 +71,27 @@ const Services = () => {
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Web site</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Blog</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Apps</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Systems</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Data Base</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Hospedagem sites</p>
             </li>
           </ul>
         </article>
