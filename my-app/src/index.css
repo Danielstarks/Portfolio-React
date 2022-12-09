@@ -31,10 +31,15 @@ html {
   scroll-behavior: smooth;
 }
 
-::--webkit-scrollbar {
-  display: none;
+::-webkit-scrollbar {
+  width: 13px;
+  background-color: #1f1f38;
+  
 }
-
+::-webkit-scrollbar-thumb{
+  background-color: var(--color-primary);
+  border-radius: 50px;
+}
 body {
   font-family: "Poppins", sans-serif;
   background: var(--color-bg);
