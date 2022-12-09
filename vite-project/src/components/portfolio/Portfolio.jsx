@@ -20,7 +20,7 @@ const data = [
     image: IMG2,
     title: "Web site Game",
     github: "https://github.com/Danielstarks/web-fortnite",
-    demo: "hhttps://web-fortnite.vercel.app/",
+    demo: "https://web-fortnite.vercel.app/",
   },
   {
     id: 3,
