@@ -31,8 +31,8 @@ const About = () => {
 
             <article className="about__card">
               <i className="about__icon bx bx-folder-open"></i>
-              <h5>Projetos</h5>
-              <small>No GitHub</small>
+              <h5>Freelancer</h5>
+              <small>Web software</small>
             </article>
           </div>
           <p>

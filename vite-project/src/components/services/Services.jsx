@@ -15,19 +15,19 @@ const Services = () => {
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Criando design básico de UI/UX usando figma</p>
+              <p>UX | UI Design Figma</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Protótipos figma.</p>
+              <p>Design Logo Figma.</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Estudos de components</p>
+              <p>Design Midia Socials</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Estudos de dashboard figma</p>
+              <p>Design Banners</p>
             </li>
           </ul>
         </article>
@@ -41,23 +41,19 @@ const Services = () => {
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Criação de Front End usando HTML/CSS, SASS, CSS Framework</p>
+              <p>Web sites</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Javascript</p>
+              <p>Landing Page</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>React JS</p>
+              <p>Formulario</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Next JS</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Node JS</p>
+              <p>Web apps</p>
             </li>
           </ul>
         </article>
@@ -66,32 +62,16 @@ const Services = () => {
 
         <article className="services">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Services</h3>
           </div>
           <ul className="services__list">
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Web site</p>
+              <p>Produtos de Sofwares</p>
             </li>
             <li>
               <i class="service__list-icon bx bx-check"></i>
-              <p>Blog</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Apps</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Systems</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Data Base</p>
-            </li>
-            <li>
-              <i class="service__list-icon bx bx-check"></i>
-              <p>Hospedagem sites</p>
+              <p>Freelancer</p>
             </li>
           </ul>
         </article>

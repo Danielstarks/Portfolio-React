@@ -24,13 +24,13 @@ const Contact = () => {
                     <article className="contact__option">
                         <i className="contact__option-icon bx bx-envelope"></i>
                         <h4>Email</h4>
-                        <h5>daniel.santosprf@gmail.com</h5>
+                        <h5>Olá</h5>
                         <a href="mailto:daniel.santos96prf@gmail.com" target="_blank">Send a message</a>
                     </article>
 
                     <article className="contact__option">
                         <i className="contact__option-icon bx bxl-whatsapp"></i>
-                        <h5>+55 (11) 98110-2837</h5>
+                        <h5>Whatsap</h5>
                         <a href="https://api.whatsapp.com/send/?phone=5511981102837" target="_blank">Send a message</a>
                     </article>
 

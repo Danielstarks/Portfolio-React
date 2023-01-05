@@ -45,7 +45,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background: radial-gradient(rgb(4, 0, 255, 0.6), 1px, black);
+  background: radial-gradient( 50.53% 50.53% at 50.23% 49.47%,  #062d81 0%, #0c0c0c 100%);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
