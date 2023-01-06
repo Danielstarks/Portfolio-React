@@ -1,10 +1,11 @@
 .portfolio__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2.5rem;
+    gap: 2.4rem;
 }
 
 .portfolio__item {
+    min-width: 100%;
     background: var(--color-bg-variant);
     padding: 1.3rem;
     border-radius: 2rem;
@@ -28,6 +29,7 @@
 
 .portfolio__item-cta {
     display: flex;
+    font-size: 12px;
     gap: 1rem;
     margin-bottom: 1rem;
 
@@ -35,7 +37,8 @@
 
 @media screen and (max-width: 1024px) {
     .portfolio__container {
-        grid-template-columns: 1fr 1fr;
+        display: grid;
+        grid-template-columns: 1fr;
         gap: 1.2rem;
     }
 
